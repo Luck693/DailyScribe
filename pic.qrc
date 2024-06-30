@@ -1,0 +1,37 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>res/pic/background2.jpg</file>
+        <file>res/pic/background3.jpeg</file>
+        <file>res/pic/background4.jpeg</file>
+        <file>res/pic/background5.jpg</file>
+        <file>res/pic/background1.jpg</file>
+        <file>res/pic/background6.jpg</file>
+        <file>res/pic/white.jpg</file>
+        <file>res/pic/background3change.jpg</file>
+        <file>res/pic/background5change.jpg</file>
+        <file>res/pic/tottings_background.jpg</file>
+        <file>res/pic/tottings_backgroundchange.jpg</file>
+        <file>res/pic/recollections.jpg</file>
+        <file>res/pic/tottings.jpg</file>
+        <file>res/pic/diaries.jpg</file>
+        <file>res/pic/settings.jpg</file>
+	<file>res/pic/plus.png</file>
+	<file>res/pic/rain.jpeg</file>
+	<file>res/pic/music.jpeg</file>
+	<file>res/pic/call.jpeg</file>
+	<file>res/pic/shop.jpeg</file>
+	<file>res/pic/study.jpeg</file>
+	<file>res/pic/exercise.png</file>
+	<file>quote.txt</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>res/pic/left_arrow.png</file>
+        <file>res/pic/right_arrow.png</file>
+	<file>res/pic/bold.png</file>
+	<file>res/pic/color.png</file>
+	<file>res/pic/italic.png</file>
+	<file>res/pic/underline.png</file>
+	<file>res/pic/save.png</file>
+	<file>res/pic/picture.png</file>
+    </qresource>
+</RCC>
